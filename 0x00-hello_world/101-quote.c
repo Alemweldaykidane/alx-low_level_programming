@@ -1,4 +1,4 @@
-a28eaa3a6e46024472cc/*
+/*
  * File: 101-quote.c
  * Auth: Brennan D Baraban
  */
