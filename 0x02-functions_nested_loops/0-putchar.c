@@ -1,14 +1,18 @@
-#include <stdio.h>
-
-
+#include "main.h"
 /**
- * main -Entry point of the program
- *
- * Return: Always 0 (Success)
- */
+ * main - main block
+ * Return: 0
+ **/
 int main(void)
 {
-	printf("_putchar\n");
+	char x[] = "_putchar";
+
+	int k;
+
+	for (k = 0; k < 8; k++)
+	{
+		_putchar(x[k]);
+	}
+	_putchar('\n');
 	return (0);
 }
-
