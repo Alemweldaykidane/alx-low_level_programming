@@ -1,0 +1,18 @@
+#include <stdio.h>
+float multipication(float a , float b)
+{
+    float x;
+    float y;
+    float result;
+    float k;
+    result=a*b;
+    return (result);
+}   
+int main()
+{
+    
+   
+    printf("%f ",multipication(38.44,5.7));
+    
+    return 0;
+}
