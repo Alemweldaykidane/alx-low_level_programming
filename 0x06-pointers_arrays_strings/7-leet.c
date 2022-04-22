@@ -27,4 +27,4 @@ char *leet(char *str)
 	}
 	return (str);
 }
-© 2022 GitHub, Inc.
+
