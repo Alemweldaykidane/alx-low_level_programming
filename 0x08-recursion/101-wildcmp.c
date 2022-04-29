@@ -28,5 +28,8 @@ int wildcmp(char *s1, char *s2)
 	}
 	return (0);
 }
+<<<<<<< HEAD
 © 2022 GitHub, Inc.
 
+=======
+>>>>>>> 7e50093e32255ca43d2bb78f67c3635c65cd906f
